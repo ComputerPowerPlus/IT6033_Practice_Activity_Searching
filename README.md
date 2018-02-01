@@ -6,8 +6,8 @@ This practice repository contains starter files for a searching algorithms learn
 Implement the searhing in SequentialSearch.indexOf()
 
 Test your implementation using JUnit test SequentialSearchTest.java
-    * select SequentialSearchTest.java
-    * right click
+* select SequentialSearchTest.java
+* right click
     - select Run File
     - look at results in test results panel
     (you may add other tests of your choice in that class)
