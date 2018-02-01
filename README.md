@@ -1,6 +1,6 @@
 # IT6033 Practice Activity: Searching
-This practice repository contains starter files for a searching algorithms learning activity 
-__(THIS IS NOT AN ASSIGNMENT)__
+This practice repository contains starter files for a searching algorithms learning activity  
+### THIS IS NOT AN ASSESSMENT!
 
 ## Part 1: Implement a sequential search on an array of ints
 
